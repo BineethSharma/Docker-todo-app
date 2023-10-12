@@ -88,3 +88,6 @@ docker-compose down
 
 ```
 
+To execute this project, follow the detailed documentaion: https://github.com/BineethSharma/Docker-two-tier/blob/main/Documentation-%20Docker_compose_two_tier_app_execution.pdf
+
+
